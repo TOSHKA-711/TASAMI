@@ -75,8 +75,8 @@ if (window.innerWidth < 481) {
 }
 
 videoSource.type = "video/mp4";
-// videoSource.src = videoPath + videoFileName;
-videoSource.src = "../imgs/dubai-video.mp4";
+videoSource.src = videoPath + videoFileName;
+// videoSource.src = "../imgs/dubai-video.mp4";
 videoSource.caption = "";
 
 landingVideo.appendChild(videoSource);
