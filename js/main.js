@@ -10,7 +10,7 @@ window.addEventListener("scroll", function () {
       ".nav-bar .container .nav-btns a i"
     );
     navBtns.forEach((link) => (link.style.color = "#1940ae"));
-    document.getElementById("logo-img").src = "../imgs/logo blue.png";
+    document.getElementById("logo-img").src = "./imgs/logo blue.png";
     let navNum = (document.querySelector(".nav-number").style.color =
       "#1940ae");
 
@@ -30,7 +30,7 @@ window.addEventListener("scroll", function () {
       ".nav-bar .container .nav-btns a i"
     );
     navBtns.forEach((link) => (link.style.color = "#fff"));
-    document.getElementById("logo-img").src = "../imgs/logo white.png";
+    document.getElementById("logo-img").src = "./imgs/logo white.png";
     let navNum = (document.querySelector(".nav-number").style.color = "#fff");
     const barMark = (document.querySelector(`.bar-mark`).style.color = "#fff");
     const xMark = (document.querySelector(`.x-mark`).style.color = "#fff");
