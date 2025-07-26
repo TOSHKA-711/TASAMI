@@ -236,7 +236,7 @@ i.fa-solid.fa-bars-staggered.bar-mark,
   position: relative;
   margin-bottom: 3rem;
 }
-.home video {
+.home .heroImg {
   width: 100vw;
   height: 100vh;
   object-fit: cover; /* Ensures the video covers the entire container while maintaining aspect ratio */
@@ -1137,7 +1137,7 @@ i.fa-solid.fa-bars-staggered.bar-mark,
   align-items: center;
   justify-content: center;
   background-color: #fff9f8;
-  background-image: url(https://topaddress.ae/wp-content/themes/topaddress-theme/sections/section-catalog-banner-img/catalog-banner-bg.webp);
+  background-image: url(https://topaddress.ae/wp-content/uploads/2022/11/intro-bg-1920-pro-1200x750.webp);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
